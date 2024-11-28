@@ -1,0 +1,12 @@
+#local enviroment file
+.env*
+
+#to ignore css files add *.css files
+*.css
+
+#to ignore javasript
+*.js
+
+#miscellanous 
+.vscode
+#B to ignore a folder you can just add /foldername
